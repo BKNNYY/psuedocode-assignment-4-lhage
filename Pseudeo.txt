@@ -2,7 +2,8 @@ How To Play War
 
 Give each of the two players 26 cards in a pile face down
 
-
+may be helpful to give face cards values as well. Ex. Jack=11 Queen=12 King=13 Ace=14
+this will make detection a lot easier in the future.
 
 	At the same each player will flip over the card that is on the top of their deck:
 	Who ever has the hightest card takes both card and places them at the bottom of their deck:
